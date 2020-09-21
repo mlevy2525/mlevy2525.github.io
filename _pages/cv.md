@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E in Computer Science, University of Pennsylvania, 2012
+  * Summa Cum Laude and Tau Beta Pi
+  * Minor in Mathematics
+* Ph.D in Computer Vision and Robotics, University of Maryland - College Park, 2024 (expected)
+
+Research experience
+======
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Flatiron Health: Software Engineering Intern
+  * Summer 2018
+  * Worked as a part of the Learning Healthcare Platform team to improve data flow within the company
+  * Wrote an API to allow engineers to document metrics from their pipelines into InfluxDB
+  * Designed a Flask app to query information about the current state of pipelines and help engineers debug
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Google: Software Engineering Intern
+  * Summer 2017
+  * Worked as a part of the Google Lens Team on Google’s Android Search App (AGSA)
+  * Wrote code to efficiently download images into AGSA and analyzed those images within the app
+  * Assisted in writing a server that connects the mobile application to a shared backend
+ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant – Introduction to Algorithms - University of Maryland
+  * Fall 2019
+* Teaching Assistant – Data Structures \& Algorithms - University of Pennsylvania
+  * Fall 2016 / Spring 2017
