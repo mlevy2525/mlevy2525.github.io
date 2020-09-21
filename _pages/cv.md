@@ -18,6 +18,15 @@ Education
 
 Research experience
 ======
+* University of Maryland Institute for Advanced Computer Studies - Graduate Research Assistant
+  * Advisor: Abhinav Shrivastava
+  * Addressing robotic interaction with dynamic environments where changes in the environment are independent of the agent
+  * Building upon recent progress in solving for static policies via Reinforcement Learning
+* GRASP Lab at the University of Pennsylvania - Undergraduate Research Assistant
+  * Advisor: Kostas Daniilidis
+  * Used temporal video data to improve current key point detection done by “6-DoF Object Pose from Semantic Keypoints”
+  * After the data was improved we retrained the model to better image position estimates
+
 
 Work experience
 ======
