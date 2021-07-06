@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S.E in Computer Science, University of Pennsylvania, 2012
+* B.S.E in Computer Science, University of Pennsylvania, 2019
   * Summa Cum Laude and Tau Beta Pi
   * Minor in Mathematics
 * Ph.D in Computer Vision and Robotics, University of Maryland - College Park, 2024 (expected)
