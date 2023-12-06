@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research utilizes a mixture of computer vision and robotics approaches to try and make robots more useful in the real world. More speciaically, I focus on issues of dynamic robotics, how robots act in the world where objects move irrespective of the robot's actions. 
+My research utilizes a mixture of computer vision and robotics approaches to try and make robots more useful in the real world. 
 
-My long term goal is to create a method for using robots to solve complex multi step tasks which currently require specialists. Some examples of this are fully functioning cooking robots or a robot that can perform surgeries without human supervision.
+In the past I worked on dynamic robotics more specifically focusing on how robots should act in the world where objects move irrespective of the robot's actions. 
+
+Currently my work focuses on how we can train robots to complete tasks with better data efficency. 
+
+My long term goal is to teach robots how to solve tasks from videos of humans in the wild. This will enable training without the expense of collecting data specifically on a robot.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
