@@ -14,22 +14,37 @@ Education
 * B.S.E in Computer Science, University of Pennsylvania, 2019
   * Summa Cum Laude and Tau Beta Pi
   * Minor in Mathematics
-* Ph.D in Computer Vision and Robotics, University of Maryland - College Park, 2024 (expected)
+* Ph.D in Computer Vision and Robotics, University of Maryland - College Park, 2025 (expected)
 
 Research experience
 ======
 * University of Maryland Institute for Advanced Computer Studies - Graduate Research Assistant
   * Advisor: Abhinav Shrivastava
   * Addressing robotic interaction with dynamic environments where changes in the environment are independent of the agent
-  * Building upon recent progress in solving for static policies via Reinforcement Learning
+  * Utilizing waypoint information to do imitation learning from a small numberof examples with limited information
 * GRASP Lab at the University of Pennsylvania - Undergraduate Research Assistant
   * Advisor: Kostas Daniilidis
   * Used temporal video data to improve current key point detection done by “6-DoF Object Pose from Semantic Keypoints”
   * After the data was improved we retrained the model to better image position estimates
+ 
+Papers
+======
+WAYEX: Waypoint Exploration using a Single Demonstration [Under Submission]
+
+Coarse-to-Fine Human Mesh Recovery with Transformers [Under Submission]
+
+V-VIPE: Variational View Invariant Pose Embedding [Under Submission]
+
+No-frills Dynamic Planning using Static Planners [ICRA 2021]
 
 
 Work experience
 ======
+* Amazon: Research Scientist Intern
+  * Summer 2022
+  * Worked as a part of the Alexa Prize Team
+  * Researched Human Pose Estimation in order to enable Alexa to teach skills better
+
 * Flatiron Health: Software Engineering Intern
   * Summer 2018
   * Worked as a part of the Learning Healthcare Platform team to improve data flow within the company
