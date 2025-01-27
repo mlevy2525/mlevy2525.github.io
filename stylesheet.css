@@ -116,6 +116,9 @@ h2 {
   width: 160px;
   height: 160px;
   position: relative;
+  display: flex; /* Use Flexbox for centering */
+  align-items: center; /* Vertically center */
+  justify-content: center; /* Horizontally center */
 }
 
 .two {
@@ -125,6 +128,9 @@ h2 {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+  display: flex; /* Optional: In case you want extra centering flexibility */
+  align-items: center;
+  justify-content: center;
 }
 
 .fade {
